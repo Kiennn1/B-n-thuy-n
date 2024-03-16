@@ -1,0 +1,11 @@
+C:\Users\sky\OneDrive\Tài liệu\C#\Battle Ship\Battle Ship\bin\Debug\Battle Ship.exe.config
+C:\Users\sky\OneDrive\Tài liệu\C#\Battle Ship\Battle Ship\bin\Debug\Battle Ship.exe
+C:\Users\sky\OneDrive\Tài liệu\C#\Battle Ship\Battle Ship\bin\Debug\Battle Ship.pdb
+C:\Users\sky\OneDrive\Tài liệu\C#\Battle Ship\Battle Ship\obj\Debug\Battle Ship.csproj.AssemblyReference.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\Battle Ship\Battle Ship\obj\Debug\Battle Ship.csproj.SuggestedBindingRedirects.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\Battle Ship\Battle Ship\obj\Debug\Battle_Ship.Form1.resources
+C:\Users\sky\OneDrive\Tài liệu\C#\Battle Ship\Battle Ship\obj\Debug\Battle_Ship.Properties.Resources.resources
+C:\Users\sky\OneDrive\Tài liệu\C#\Battle Ship\Battle Ship\obj\Debug\Battle Ship.csproj.GenerateResource.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\Battle Ship\Battle Ship\obj\Debug\Battle Ship.csproj.CoreCompileInputs.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\Battle Ship\Battle Ship\obj\Debug\Battle Ship.exe
+C:\Users\sky\OneDrive\Tài liệu\C#\Battle Ship\Battle Ship\obj\Debug\Battle Ship.pdb
